@@ -1,2 +1,2 @@
-# WaterLevelMeasuring
-Water level measuring für a rain barrel
+# Measuring of the water level of a rain barrel
+
